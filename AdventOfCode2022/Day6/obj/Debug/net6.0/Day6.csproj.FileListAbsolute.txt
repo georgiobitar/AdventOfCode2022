@@ -1,0 +1,15 @@
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\bin\Debug\net6.0\Day6.exe
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\bin\Debug\net6.0\Day6.deps.json
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\bin\Debug\net6.0\Day6.runtimeconfig.json
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\bin\Debug\net6.0\Day6.dll
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\bin\Debug\net6.0\Day6.pdb
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.csproj.AssemblyReference.cache
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.AssemblyInfoInputs.cache
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.AssemblyInfo.cs
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.csproj.CoreCompileInputs.cache
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.dll
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\refint\Day6.dll
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.pdb
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\Day6.genruntimeconfig.cache
+C:\Georgio\Github\AdventOfCode2022\AdventOfCode2022\Day6\obj\Debug\net6.0\ref\Day6.dll
